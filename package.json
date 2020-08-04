@@ -5,6 +5,7 @@
   "dependencies": {
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
+    "react-addons-test-utils": "^15.6.2",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
@@ -32,6 +33,7 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
-    "react-test-render": "^1.1.2"
+    "react-test-render": "^1.1.2",
+    "react-test-renderer": "^16.13.1"
   }
 }
